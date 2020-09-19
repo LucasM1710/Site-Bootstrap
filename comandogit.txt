@@ -1,0 +1,12 @@
+git init
+git config --global user.name "nome"
+git config --global user.email "email"
+
+git status
+git add .
+git status
+
+git commit -m "nome criado"
+
+git status
+git log --oneline
