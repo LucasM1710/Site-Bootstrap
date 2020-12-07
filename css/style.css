@@ -1,3 +1,7 @@
+/**Bootstrap logo*/
+.navbar-brand {
+	font-size: 23px;
+}
 .box{
 	position: relative;
 	top:55px;
@@ -44,4 +48,43 @@ section.banner > .container{
 	color: white;
 	padding: 10px 18px;
 	background: #475aff;
+}
+
+section.cadastro-lead{
+	background: #475aff;
+	padding: 20px 0;
+}
+
+section.cadastro-lead h2{
+	color:white;
+	font-size: 24px;
+	vertical-align: middle;
+	position: relative;
+	top:5px;
+}
+
+section.cadastro-lead form{
+	position: relative;
+	top:1px;
+}
+
+section.cadastro-lead input[type=text]{
+	width: 85%;
+	padding-left: 8px;
+	height: 40px;
+	vertical-align: middle;
+	border:1px solid #ccc;
+}
+section.cadastro-lead input[type=submit]{
+	width: 15%;
+	vertical-align: middle;
+	height: 40px;
+	border:1px solid #ccc;
+}
+
+@media screen and (max-width:1024px ){
+	section.cadastro-lead form{
+		position: relative;
+		top:0px;
+	}
 }
