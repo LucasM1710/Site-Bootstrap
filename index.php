@@ -76,6 +76,56 @@
           </div>
         </div>
     </section>
+    <section class="depoimento text-center">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Depoimento</h2>
+
+            <blockquote>
+                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque volutpat eleifend nisi, molestie mattis tortor cursus eu. Donec facilisis, ligula quis faucibus imperdiet, nibh elit malesuada eros, ac imperdiet nulla purus vel eros. Phasellus placerat, neque sit amet vehicula consectetur, dolor odio congue ex, eget dictum enim neque sed ex. Nullam eu"</p>
+            </blockquote>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="diferenciais text-center">
+      <h2>Conheça nossa empresa!</h2>
+
+      <div class="container diferenciais-container">
+        <div class="row">
+          <div class="col-md-4">
+            <h3><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-arrow-down-left-circle" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+            <path fill-rule="evenodd" d="M10.828 5.172a.5.5 0 0 0-.707 0L6.025 9.268V6.5a.5.5 0 0 0-1 0v3.975a.5.5 0 0 0 .5.5H9.5a.5.5 0 0 0 0-1H6.732l4.096-4.096a.5.5 0 0 0 0-.707z"/>
+            </svg></h3>
+            <h2>Diferencial #1</h2>
+            <p>egestas. Proin vitae pretium nisl. Aliquam urna elit, imperdiet at bibendum at, tristique quis arcu. Vivamus tincidunt lobortis dolor, ut lobortis lorem posuere non. Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+            </div>
+
+            <div class="col-md-4">
+            <h3><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-heart-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" d="M8 1.314C12.438-3.248 23.534 4.735 8 15-7.534 4.736 3.562-3.248 8 1.314z"/>
+            </svg></h3>
+            <h2>Diferencial #2</h2>
+            <p>egestas. Proin vitae pretium nisl. Aliquam urna elit, imperdiet at bibendum at, tristique quis arcu. Vivamus tincidunt lobortis dolor, ut lobortis lorem posuere non. Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+            </div>
+
+            <div class="col-md-4">
+            <h3><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-joystick" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path d="M7.106 15.553L.553 12.276A1 1 0 0 1 0 11.382V9.471a1 1 0 0 1 .606-.89L6 6.269v1.088L1 9.5l5.658 2.83a3 3 0 0 0 2.684 0L15 9.5l-5-2.143V6.27l5.394 2.312a1 1 0 0 1 .606.89v1.911a1 1 0 0 1-.553.894l-6.553 3.277a2 2 0 0 1-1.788 0z"/>
+            <path fill-rule="evenodd" d="M7.5 9.5v-6h1v6h-1z"/>
+            <path d="M10 9.75c0 .414-.895.75-2 .75s-2-.336-2-.75S6.895 9 8 9s2 .336 2 .75zM10 2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"/>
+            </svg></h3>
+            <h2>Diferencial #3</h2>
+            <p>egestas. Proin vitae pretium nisl. Aliquam urna elit, imperdiet at bibendum at, tristique quis arcu. Vivamus tincidunt lobortis dolor, ut lobortis lorem posuere non. Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
   </div><!--box-->
 
 
