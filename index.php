@@ -122,10 +122,137 @@
             <p>egestas. Proin vitae pretium nisl. Aliquam urna elit, imperdiet at bibendum at, tristique quis arcu. Vivamus tincidunt lobortis dolor, ut lobortis lorem posuere non. Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
             </div>
 
-          </div>
+        
         </div>
       </div>
     </section>
+   <section class="equipe">
+    <h2>Equipe</h2>
+
+    <div class="container equipe-container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="equipe-single">
+            <div class="row">
+              <div class="col-md-2">
+                <div class="user-picture">
+                   <div class="user-picture-child"></div>
+                </div>
+              </div>
+              <div class="col-md-10">
+                <h3>Lucas Matheus</h3>
+                <p>Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+           <div class="equipe-single">
+              <div class="row">
+              <div class="col-md-2">
+                <div class="user-picture">
+                   <div class="user-picture-child"></div>
+                </div>
+              </div>
+              <div class="col-md-10">
+                <h3>Lucas Matheus</h3>
+                <p>Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="equipe-single">
+            <div class="row">
+              <div class="col-md-2">
+                <div class="user-picture">
+                  <div class="user-picture-child"></div>
+                </div>
+              </div>
+              <div class="col-md-10">
+                <h3>Lucas Matheus</h3>
+                <p>Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="equipe-single">
+            <div class="row">
+              <div class="col-md-2">
+                <div class="user-picture">
+                  <div class="user-picture-child"></div>
+                </div>
+              </div>
+              <div class="col-md-10">
+                <h3>Lucas Matheus</h3>
+                <p>Donec at ultrices nisl. Etiam iaculis, ligula vel iaculis venenatis, arcu ligula luctus diam, id tempus magna massa vel diam. Donec nec ornare mauris. Donec quis nulla enim. Duis porta aliquam commodo.</p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div><!--equipe-container-->
+   </section>
+
+  <section class="final-site">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-6">
+          <h2>Fale conosco</h2>
+          <form>
+              <div class="form-group">
+                <label for="email">Nome:</label>
+                <input type="text" name="nome" class="form-control" id="nome">
+              </div>
+
+              <div class="form-group">
+                <label for="pwd">E-mail:</label>
+                <input type="email" name="email" class="form-control" id="email">
+              </div>
+
+              <div class="form-group">
+                <label for="email">Mensagem:</label>
+                <textarea class="form-control"></textarea>
+              </div>
+
+              <button type="submit" class="btn btn-default">Submit</button>
+          </form>
+
+        </div>
+
+        <div class="col-md-6">
+           <h2>Nossos planos</h2>
+           <table class="table">
+              <thead>
+                <tr>
+                  <th>Plano Semanal</th>
+                  <th>Plano Mensal</th>
+                  <th>Plano Anual</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>R$100,00</td>
+                  <td>R$200,00</td>
+                  <td>R$500,00</td>
+                </tr>
+              </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </section>
+    <footer>
+        <p class="text-center">Todos os direitos reservados</p>
+    </footer>
+
   </div><!--box-->
 
 
